@@ -1,0 +1,2 @@
+config SHIELD_DIRECTPAD
+    def_bool $(shields_list_contains, directpad)
